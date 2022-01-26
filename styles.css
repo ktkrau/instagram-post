@@ -1,0 +1,48 @@
+body{background-color: black;
+}
+.post{
+    width: 15cm;
+    margin:auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.usuario #ht{
+    width: 60px;
+    margin: 6px;
+}
+.post .usuario{display: flex;
+    height: 1.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nombre h3{
+    margin: 0;
+    margin-top: 8px;
+}
+.nombre p {margin: 0;
+}
+.usuario #icono{
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.imagen img{
+    width: 100%;
+}
+.descripcion .d2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:12px;
+}
+.descripcion .d3{
+    margin-left: 10px;
+    margin-right: 12px;
+    margin-top: 10px;
+}
+.descripcion .d1{
+    height: 40px;
+    font-size: 30px;
+    margin:12px;
+}
+.d1{display: flex;}
+.descripcion .d1 .aa{
+    width: 100%;
+}
